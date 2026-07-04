@@ -1,0 +1,61 @@
+﻿    <!-- 浜у搧鍒嗙被 -->
+    <section id="products" class="products">
+        <div class="container">
+            <h2 class="section-title">浜у搧鏈嶅姟</h2>
+            <p class="section-subtitle">鍏ㄦ柟浣嶇數瀛愪骇鍝侀攢鍞笌缁翠慨鏈嶅姟</p>
+
+            <div class="products-grid">
+                <div class="product-card">
+                    <div class="product-image gaming">
+                        <span class="product-icon">馃摫</span>
+                    </div>
+                    <h3>鎵嬫満閿€鍞?/h3>
+                    <p>鑻规灉銆佷笁鏄熴€佸崕涓虹瓑鍝佺墝锛屾柊鏈轰紭浠?/p>
+                    <div class="product-specs">
+                        <span class="spec">姝ｅ搧淇濊瘉</span>
+                        <span class="spec">浠锋牸浼樻儬</span>
+                    </div>
+                    <button class="btn btn-outline" onclick="window.location.href='products.html'">浜嗚В璇︽儏</button>
+                </div>
+
+                <div class="product-card">
+                    <div class="product-image design">
+                        <span class="product-icon">馃捇</span>
+                    </div>
+                    <h3>鐢佃剳閿€鍞?/h3>
+                    <p>绗旇鏈€佸彴寮忔満銆佸伐浣滅珯锛岄厤缃綈鍏?/p>
+                    <div class="product-specs">
+                        <span class="spec">鍝佺墝榻愬叏</span>
+                        <span class="spec">鎬ц兘浼橀€?/span>
+                    </div>
+                    <button class="btn btn-outline" onclick="window.location.href='products.html'">浜嗚В璇︽儏</button>
+                </div>
+
+                <div class="product-card">
+                    <div class="product-image business">
+                        <span class="product-icon">馃敡</span>
+                    </div>
+                    <h3>缁翠慨鏈嶅姟</h3>
+                    <p>鎵嬫満銆佺數鑴戝揩閫熺淮淇紝涓撲笟鎶€甯堝洟闃?/p>
+                    <div class="product-specs">
+                        <span class="spec">蹇€熺淮淇?/span>
+                        <span class="spec">璐ㄩ噺淇濊瘉</span>
+                    </div>
+                    <button class="btn btn-outline" onclick="window.location.href='repair.html'">浜嗚В璇︽儏</button>
+                </div>
+
+                <div class="product-card">
+                    <div class="product-image server">
+                        <span class="product-icon">馃帶</span>
+                    </div>
+                    <h3>閰嶄欢閿€鍞?/h3>
+                    <p>鍘熻閰嶄欢銆佷繚鎶ゅ３銆佽创鑶滐紝搴旀湁灏芥湁</p>
+                    <div class="product-specs">
+                        <span class="spec">鍘熻姝ｅ搧</span>
+                        <span class="spec">鍝佺被涓板瘜</span>
+                    </div>
+                    <button class="btn btn-outline" onclick="window.location.href='products.html'">浜嗚В璇︽儏</button>
+                </div>
+            </div>
+        </div>
+    </section>
